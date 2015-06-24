@@ -2,4 +2,4 @@
 // SCRIPTS.JS
 // 
 
-console.log("Welcome to the Vanilla JS Seed")
+console.log("Welcome to the HTML Seed")
